@@ -10,7 +10,7 @@
 
 4 . Fresh tasks and completed tasks are seperated horizontally.
 
-4 . To Run this project locally, simply clone the repository to your local machine and run the "index.html" file.
+5 . To Run this project locally, simply clone the repository to your local machine and run the "index.html" file.
 
 Note: All the downloaded files should be on the same folder on your local machine.
 
